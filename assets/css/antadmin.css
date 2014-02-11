@@ -1,0 +1,23 @@
+#voucher-generation-fields-container > div {
+    float: left;
+    margin-right: 10px;
+}
+
+#generated-vouchers-container > div > table > thead > tr > th, #online-purchased-vouchers > div > table > thead > tr > th {
+    color: #666666; 
+    padding-left: 10px; 
+}
+
+#generated-vouchers-container > div > table > tbody > tr > td, #online-purchased-vouschers > div > table > tbody > tr > td{
+    color: #454545; 
+    padding-left: 10px; 
+}
+
+div.jtable-left-area {
+    margin-top: 20px; 
+    color: #454545; 
+}
+
+#generate-voucher-title {
+    font-size: 14px; 
+}
